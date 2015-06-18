@@ -1,0 +1,17 @@
+IDEJA:      	01.07.2014.
+DIZAJN:     	04.07.2014.
+GUI:			
+	tipke:  	06.07.2014.
+	input:		11.07.2014.
+	ostalo:		11.07.2014.
+	zvukovi:	11.07.2014.
+				
+RECORD:			18.07.2014.	
+STOP:			18.07.2014.
+PLAY:			19.07.2014.
+FINESE:	
+	sustain:	23.07. - *to be continued*
+	keyboard:	21.07.2014.
+	pause:		
+				
+BUGOVI:			
